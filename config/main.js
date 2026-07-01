@@ -1,7 +1,7 @@
 // This changes the title of your site
 
-var sitename = "PGIS"; // Change this to change the name of your website.
-var subtext = "lite"; // set the subtext
+var sitename = "PGIS lite"; // Change this to change the name of your website.
+var subtext = "The simplest version of PGIS"; // set the subtext
 
 // more settings in main.css
 
